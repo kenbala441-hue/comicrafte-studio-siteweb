@@ -1,0 +1,6 @@
+{
+  "name": "ComicCrafte Studio",
+  "description": "Site officiel de ComicCrafte Studio — Là où les histoires prennent vie. Découvrez nos œuvres, nos actualités officielles, l'historique des versions et notre communauté.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
